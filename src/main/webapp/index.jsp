@@ -5,6 +5,7 @@
     <title>My Maven Web App</title>
 </head>
 <body>
-    <h1>Welcome to My Maven JSP Web App!</h1>
+    <h2>Welcome to My Maven JSP Web App!</h2>
+    <h1>Hello Good afternoon</h1>
 </body>
 </html>
