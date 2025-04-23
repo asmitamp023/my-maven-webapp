@@ -7,7 +7,9 @@
 <body>
     <h2>Welcome to My Maven JSP Web App!</h2>
     <h1>Hello Good afternoon</h1>
-<form action="action_page.php">
+
+<!--
+    <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
@@ -31,8 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 </form>
-
-
+-->
 
 </body>
 </html>
