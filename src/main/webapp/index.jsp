@@ -7,7 +7,7 @@
 <body>
     <h2>Welcome to My Maven JSP Web App!</h2>
     <h1>Hello how are you..??</h1>
-    <h1>Project 4..</h1>
+    <h1>Project 4 using docker hub</h1>
 
 
 
